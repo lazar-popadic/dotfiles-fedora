@@ -1,0 +1,18 @@
+[Desktop Entry]
+Actions=NewMessage
+Categories=GNOME;GTK;Network;Email;
+Comment=The best email app for people and teams at work
+Exec=mailspring %U
+GenericName=Mail Client
+Icon=mailspring
+Keywords=email;internet;
+MimeType=x-scheme-handler/mailto;x-scheme-handler/mailspring;
+Name=Mailspring
+StartupNotify=true
+StartupWMClass=Mailspring
+Type=Application
+
+[Desktop Action NewMessage]
+Exec=mailspring mailto:
+Name[en_US]=New Message
+Name=New Message
