@@ -1,14 +1,23 @@
+[DetailsMode]
+ExpandableFolders=false
+PreviewSize=32
+
 [ExtractDialog]
 1920x1080 screen: Height=540
 1920x1080 screen: Width=1256
 DirHistory[$e]=$HOME/Programs/,$HOME/Downloads/
 
 [General]
+ConfirmClosingMultipleTabs=false
 OpenExternallyCalledFolderInNewTab=true
 RememberOpenedTabs=false
 ShowFullPathInTitlebar=true
+SplitView=true
 Version=202
 ViewPropsTimestamp=2026,4,21,18,40,34.161
+
+[IconsMode]
+PreviewSize=48
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
@@ -16,6 +25,9 @@ Places Icons Static Size=22
 
 [MainWindow]
 MenuBar=Disabled
+
+[Notification Messages]
+warnAboutRisksBeforeActingAsAdmin=false
 
 [PreviewSettings]
 Plugins=audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,gsf-office,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
