@@ -1,3 +1,6 @@
+[Daemon]
+RequirePassword=false
+
 [Greeter][Wallpaper][org.kde.image][General]
-Image=/home/lazar/Pictures/wallpaper/inanna2.png
-PreviewImage=/home/lazar/Pictures/wallpaper/inanna2.png
+Image=file:///home/lazar/Pictures/Wallpapers/absolute_elsewhere.png
+PreviewImage=file:///home/lazar/Pictures/Wallpapers/absolute_elsewhere.png

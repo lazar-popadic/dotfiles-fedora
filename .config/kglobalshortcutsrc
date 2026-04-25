@@ -250,7 +250,7 @@ activate task manager entry 6=none,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=none,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=none,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=none,Meta+9,Activate Task Manager Entry 9
-activate widget 153=none,none,Activate Application Launcher Widget
+activate widget 153=,none,Activate Application Launcher Widget
 activate widget 155=none,none,Activate Activity Pager Widget
 activate widget 30=none,none,Activate Application Launcher Widget
 activate widget 32=none,none,Activate Pager Widget
@@ -280,7 +280,3 @@ _launch=Meta+P
 
 [services][org.kde.kscreen.desktop]
 ShowOSD=Display
-
-[services][org.kde.spectacle.desktop]
-CurrentMonitorScreenShot=
-OpenWithoutScreenshot=
