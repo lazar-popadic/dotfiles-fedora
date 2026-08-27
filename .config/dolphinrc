@@ -1,6 +1,9 @@
+MenuBar=Disabled
+
 [DetailsMode]
 ExpandableFolders=false
 PreviewSize=32
+RightPadding=0
 
 [ExtractDialog]
 1920x1080 screen: Height=540
